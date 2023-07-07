@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688500024 source:c:\data\dev\cp\_2_way_too_long_words\main.cpp
+	<iostream>
+	<vector>
+
