@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688936055 source:c:\data\dev\cp\_8_lexigr\main.cpp
+	<iostream>
+	<cstring>
+

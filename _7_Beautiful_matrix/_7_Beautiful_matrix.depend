@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1688933829 source:c:\data\dev\cp\_7_beautiful_matrix\main.cpp
+	<iostream>
+	<vector>
+
