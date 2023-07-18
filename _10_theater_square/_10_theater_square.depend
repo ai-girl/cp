@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689022558 source:c:\data\dev\cp\_10_theater_square\main.cpp
+	<iostream>
+	<cmath>
+

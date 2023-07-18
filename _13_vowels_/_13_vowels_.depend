@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689107703 source:c:\data\dev\cp\_13_vowels_\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

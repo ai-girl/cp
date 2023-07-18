@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689106073 source:c:\data\dev\cp\__12_distinct_characters\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
